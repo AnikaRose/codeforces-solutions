@@ -1,3 +1,8 @@
+// Problem: 282A - Bit++
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
 int main(){
     int n;
