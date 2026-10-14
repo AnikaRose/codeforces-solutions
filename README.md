@@ -47,7 +47,7 @@ codeforces-solutions/
 ## 🔗 Profiles
 
 - **Codeforces:** [My Profile](https://codeforces.com/profile/Aniro)
-- **GitHub:** [My Repositories](https://github.com/AnikaRose/codeforces-solutions)
+- **GitHub:** [My Repositories](https://github.com/AnikaRose?tab=repositories)
 
 ## 📝 My Approach
 
