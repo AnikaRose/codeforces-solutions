@@ -10,7 +10,7 @@ int main(){
     scanf("%d", &n);
     for(int i=0; i<n; i++){
         scanf("%d %d %d", &p, &v, &t);
-        if((p==1 && v==1) || (p==1 && t==1) || (v==1 && t==1)){   
+        if((p==1 && v==1) || (p==1 && t==1) || (v==1 && t==1)){  //alternating condition (p + v+ t >= 2)  
             count++;
         }
     }
