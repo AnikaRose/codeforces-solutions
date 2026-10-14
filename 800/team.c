@@ -1,3 +1,8 @@
+// Problem: 231A - Team
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
 int main(){
     int n, p, v, t;
@@ -5,7 +10,7 @@ int main(){
     scanf("%d", &n);
     for(int i=0; i<n; i++){
         scanf("%d %d %d", &p, &v, &t);
-        if((p==1 && v==1) || (p==1 && t==1) || (v==1 && t==1)){
+        if((p==1 && v==1) || (p==1 && t==1) || (v==1 && t==1)){   
             count++;
         }
     }
