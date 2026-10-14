@@ -1,3 +1,8 @@
+// Problem: 4A - Watermelon
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include<stdio.h>
 int main(){
     int w;
