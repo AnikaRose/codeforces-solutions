@@ -1,5 +1,3 @@
-# codeforces-solutions
-
 # Codeforces Solutions in C
 
 This repository contains my solutions to problems I solve on [Codeforces](https://codeforces.com/), using the C programming language.
