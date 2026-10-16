@@ -1,3 +1,8 @@
+// Problem: 50A - Domino Piling
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
 int main(){
     int m, n, area;
