@@ -1,3 +1,8 @@
+// Problem: 791A - Bear and Big Brother
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include<stdio.h>
 int main(){
     int a, b, year=0;
