@@ -1,3 +1,8 @@
+// Problem: 617A - Elephant
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
 int main(){
     int x, step=0;
