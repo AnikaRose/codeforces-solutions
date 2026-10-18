@@ -1,3 +1,8 @@
+// Problem: 546A - Soldier and Bananas
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
 int main(){
     int k, n, w, t=0, b=0;
