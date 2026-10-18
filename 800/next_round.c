@@ -1,3 +1,8 @@
+// Problem: 158A - Next Round
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
 int main(){
     int n, k;
