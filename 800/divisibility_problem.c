@@ -1,3 +1,7 @@
+// Problem: 1328A - Divisibility Problem
+// Rating: 800
+// Language: C
+// Verdict: Accepted
 
 #include <stdio.h>
 
