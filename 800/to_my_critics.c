@@ -14,9 +14,17 @@ int main(){
         }
     }
     for(int i=0; i<t; i++){
-           printf("\n%s", arr[i]);
+           printf("\n%s", arr[i]);      
     }
- 
-
     return 0;
 }
+/* 
+also work:
+    for (int i = 0; i < t; i++) {
+        if (ans[i] == 'Y') {
+            printf("YES\n");
+        } else {
+            printf("NO\n");
+        }
+    }
+*/
