@@ -1,3 +1,8 @@
+// Problem: 1850A - To My Critics
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
 #include <string.h>
 int main(){
