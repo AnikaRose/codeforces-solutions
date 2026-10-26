@@ -1,3 +1,9 @@
+// Problem: 59A - Word
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
+
 #include <stdio.h>
 #include <ctype.h>
 
