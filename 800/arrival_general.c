@@ -1,3 +1,8 @@
+// Problem: 144A - Arrival of the General
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
 int main(){
     int n;
