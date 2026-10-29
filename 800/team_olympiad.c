@@ -1,6 +1,9 @@
+// Problem: 490A - Team Olympiad
+// Rating: 800
+// Language: C
+// Verdict: Accepted
+
 #include <stdio.h>
-#include <ctype.h>
-#include<stdlib.h>
 int main(){
     int n;
     int pc = 0, mc = 0, sc = 0;
@@ -32,8 +35,8 @@ int main(){
             sc++;
         }
     }
-    int w;
-
+    
+int w;
 if (pc < mc && pc < sc) {
     w = pc;
 }
@@ -43,6 +46,7 @@ else if (mc < sc) {
 else {
     w = sc;
 }
+    
     printf("%d\n", w);
 
     for(int i=0; i<w; i++){
